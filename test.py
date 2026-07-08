@@ -3,4 +3,4 @@ if num1 >= 12:
   print('yes')
 else:
   print('no')
-print('i am pc')
+print('i am server')
